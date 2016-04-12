@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.1.0-alpha5/ded8bbfce509d7e67236145f8df1d5d804825905/baseLibrary-2.1.0-alpha5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ded8bbfce509d7e67236145f8df1d5d804825905">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.1.0-alpha5_caaae0d3b5ca5cd0393f79734c96b21a45aeeb09/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.7.0/d9986de376d6aaeadd5e2c12390f99d17dc9f6e8/okhttp-urlconnection-2.7.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9986de376d6aaeadd5e2c12390f99d17dc9f6e8">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-2.7.0_e35890a0b4aad9751146d4dc33320ef223b68f44/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/exploded-aar/com.android.databinding/library/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d985cdf99de8a63824b52d8a8efc309f9e5fbf01">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.1_b8da91f16e90e6ee818524cc3fdad8d8960201be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.0_dad44e71a84c9029967aa5ecd5b6e6fe6ee75376/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.2.0_033352ee90fffd6c845b7f7590f27391bea5f1fc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.0.1_85c8676bc90140202195696b3186fb9917e1fe64/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_41753fb3987e03b8022abec99da8e4bbe9b20ffe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_1a58f8770ffca0c172b32f223889e7ca2be54e3b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_6b7ae9c351ecdef11d297b0b914cfd50be716b07/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/sdk/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_9c5dfa54ae090f96f633d365488618846ce15dd9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.0/1477ec5caf8319ab4b51eb43553cd66aa86fdea5/okhttp-2.7.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.7.0_b596fc0cb38e09923be2f8c2885491da7e6f439f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.16/bdc5ca010675cd9385bdd3a28cf53ee88164424f/rxjava-1.0.16.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bdc5ca010675cd9385bdd3a28cf53ee88164424f">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.0.16_7b0cfc58df0d6f36f7273ced2057dddce3d168ce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.0_fb14fee8a2303bbde28319dff714fe10a3a7fe6f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta2_63051a00e1eb48c340e8b181e80d7c079f809a7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3cae403175958af8baa00bed0bd6e04187d69415">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.1_e8a44a00c79baed810022df777c8b1d2b1bdaf6c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_e98dde96568140915b2aaf581ea74c227b63a943/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.0_91264c88d6e6fccccff3fb7b0fc39fa2223470f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.0_924b1b93fce15da662bbf89fafada6fbe772c3da/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/adapter-rxjava/2.0.0-beta2/3a233746381a03dbb0f5f3ed10b11c3e72dba499/adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0-beta2_e744df03a45b05fdb4c8c6e63418c81ac435a12c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f9c7881430cc7465866a8d3f43b3e6e4a9121808">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_121b47dd13e06e746e0ee7a864b5fb3b6b3c0731/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.0_fb13136dee2d934923f95d434673a4ee74ea2ae8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f980339ee2e49de6d5d0641133230c18487d4e58">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dcfa07253813527d1cc0b663bb2ac6d83c1e6c0d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/git上传项目留底/SampleDatabinding/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta2_595e4c9c69c8da3a3a790b40f08a60a5283e37ef/classes.dex" />
+    </item>
+
+</items>
