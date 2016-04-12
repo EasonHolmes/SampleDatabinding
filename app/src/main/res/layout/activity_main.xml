@@ -3,12 +3,12 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:tools="http://schemas.android.com/tools">
 
+    <!--name为变量名,type是model的路径-->
     <data>
 
         <variable
             name="user"
             type="com.cui.databinding.entity.User"/>
-
     </data>
 
     <LinearLayout

@@ -43,6 +43,7 @@ public class ImgAdapter extends RecyclerView.Adapter<ImgAdapter.BindingHolder> {
                 .load(entity.getImages().getLarge())
                 .fitCenter()
                 .into(holder.binding.itemImg);
+        //两种方法选其一
         holder.binding.setVariable(com.cui.mvvms.BR.entity, entity);
         holder.binding.executePendingBindings();
 //        holder.binding.setEntity(entity);

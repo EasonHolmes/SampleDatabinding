@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         User user = new User();
         user.setName("Eason");
         dataBinding.setUser(user);
+        //两种方法选其一
 //        dataBinding.setVariable(BR.user, user);
 //        dataBinding.executePendingBindings();
     }
